@@ -16,7 +16,7 @@
     for(var i=0; i < currentLength; i++){
 
       var key = currentText.charAt(i);
-      if(/^[A-Za-z]$/.test(key)){
+      if(/^[A-Za-zæøåÆØÅ]$/.test(key)){
         key = key.toUpperCase();
       }
       if(app.config.exclude && app.EXCLUDES.indexOf(key) == -1){
@@ -91,7 +91,7 @@
     } else {
       var key = (currentValue.length > lastValue.length) ? (currentValue.split(lastValue)[1]) : (lastValue.split(currentValue)[1]);
 
-      if(/^[A-Za-z]$/.test(key)){
+      if(/^[A-Za-zæøåÆØÅ]$/.test(key)){
         key = key.toUpperCase();
       }
       if(app.config.exclude && app.EXCLUDES.indexOf(key) == -1){
