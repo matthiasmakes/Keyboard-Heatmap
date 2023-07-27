@@ -3,8 +3,8 @@ this is a fork of [keybord-heatmap](https://github.com/pa7/Keyboard-Heatmap) mad
 
 
 # Keyboard Heatmap
-This repository contains the sourcecode of [my recently released keyboard heatmap](http://www.patrick-wied.at/projects/heatmap-keyboard/ "Realtime Keyboard Heatmap").
-The keyboard heatmap shows the distribution of characters of a text while you're typing. It's using my JavaScript heatmap library ([heatmap.js](http://www.patrick-wied.at/static/heatmapjs/ "Heatmap.js")) to make that possible.
+This repository contains the sourcecode of [pa7's "recently" released keyboard heatmap](http://www.patrick-wied.at/projects/heatmap-keyboard/ "Realtime Keyboard Heatmap").
+The keyboard heatmap shows the distribution of characters of a text while you're typing. It's using Pa7's JavaScript heatmap library ([heatmap.js](http://www.patrick-wied.at/static/heatmapjs/ "Heatmap.js")) to make that possible.
 
 Currently support keyboard layouts:
 - ASSET
@@ -24,7 +24,7 @@ Currently support keyboard layouts:
 **Contributions are very welcome!**
 
 ## How to add your own layout
-I wrote an article about [how to add your own keyboard layout to the keyboard heatmap](http://www.patrick-wied.at/blog/new-layouts-for-the-keyboard-heatmap "check it out"). It's really easy and fun ;)
+Pa7 wrote an article about [how to add your own keyboard layout to the keyboard heatmap](http://www.patrick-wied.at/blog/new-layouts-for-the-keyboard-heatmap "check it out"). It's really easy and fun ;)
 
 ## Features planned
 - More Keyboard Layouts
