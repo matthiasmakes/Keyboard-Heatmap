@@ -14,6 +14,8 @@ Currently support keyboard layouts:
 - DVORAK (Zeff Houssney)
 - DVORAK PROGRAMMER
 - COLEMAK
+- COLEMAK_ISO
+- COLEMAK_ISO_DK
 - LIIGOL (Liigo Zhuang)
 - ERGODOX COLEMAK/DVORAK/QUERY
 - MINIMAK 4/8/12 K
